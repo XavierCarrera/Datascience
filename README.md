@@ -1,7 +1,7 @@
 # Datascience
 
-#Sobre el Data Set
+## Sobre el Data Set
 
-#Análisis Exploratorio de Datos
+## Análisis Exploratorio de Datos
 
-#Modelo de Regresión Lineal
+## Modelo de Regresión Lineal
